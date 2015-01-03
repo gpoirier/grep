@@ -19,6 +19,8 @@ wartremoverErrors ++= Warts.allBut(Wart.NoNeedForMonad)
 
 defaultScalariformSettings
 
+com.github.retronym.SbtOneJar.oneJarSettings
+
 ScalariformKeys.preferences := ScalariformKeys.preferences.value
   .setPreference(AlignParameters, false)
   .setPreference(AlignSingleLineCaseStatements, false)
