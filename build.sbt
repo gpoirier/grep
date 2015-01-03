@@ -15,7 +15,7 @@ scalacOptions ++= Seq("-feature", "-deprecation", "-Xlint", "-Xfatal-warnings")
 
 addCompilerPlugin("com.foursquare.lint" %% "linter" % "0.1-SNAPSHOT")
 
-wartremoverErrors ++= Warts.all
+wartremoverErrors ++= Warts.allBut(Wart.NoNeedForMonad)
 
 defaultScalariformSettings
 
