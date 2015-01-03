@@ -1,0 +1,451 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tags>
+  <row Id="6" TagName="dominion" Count="170" ExcerptPostId="2022" WikiPostId="2021" />
+  <row Id="7" TagName="house-rules" Count="151" ExcerptPostId="2231" WikiPostId="2230" />
+  <row Id="10" TagName="carcassonne" Count="47" ExcerptPostId="2481" WikiPostId="2480" />
+  <row Id="11" TagName="cooperation" Count="11" ExcerptPostId="3876" WikiPostId="3875" />
+  <row Id="12" TagName="pandemic" Count="52" ExcerptPostId="2681" WikiPostId="2680" />
+  <row Id="13" TagName="scoring" Count="20" ExcerptPostId="3894" WikiPostId="3893" />
+  <row Id="14" TagName="dominion-alchemy" Count="12" ExcerptPostId="3025" WikiPostId="3024" />
+  <row Id="15" TagName="diplomacy" Count="32" ExcerptPostId="3151" WikiPostId="3150" />
+  <row Id="18" TagName="chess" Count="64" ExcerptPostId="2889" WikiPostId="2888" />
+  <row Id="21" TagName="mechanics" Count="20" ExcerptPostId="8699" WikiPostId="8698" />
+  <row Id="25" TagName="scrabble" Count="27" ExcerptPostId="3033" WikiPostId="3032" />
+  <row Id="30" TagName="bang" Count="24" ExcerptPostId="3013" WikiPostId="3012" />
+  <row Id="31" TagName="axis-and-allies" Count="66" ExcerptPostId="2704" WikiPostId="2703" />
+  <row Id="32" TagName="go" Count="76" ExcerptPostId="3157" WikiPostId="3156" />
+  <row Id="33" TagName="monopoly" Count="37" ExcerptPostId="3027" WikiPostId="3026" />
+  <row Id="34" TagName="settlers-of-catan" Count="126" ExcerptPostId="2904" WikiPostId="2903" />
+  <row Id="35" TagName="seafarers-of-catan" Count="13" ExcerptPostId="3035" WikiPostId="3034" />
+  <row Id="39" TagName="small-world" Count="39" ExcerptPostId="3019" WikiPostId="3018" />
+  <row Id="41" TagName="agricola" Count="53" ExcerptPostId="2454" WikiPostId="2453" />
+  <row Id="43" TagName="luck" Count="10" ExcerptPostId="3861" WikiPostId="3860" />
+  <row Id="45" TagName="citadels" Count="16" ExcerptPostId="2940" WikiPostId="2939" />
+  <row Id="46" TagName="history" Count="19" ExcerptPostId="3902" WikiPostId="3901" />
+  <row Id="48" TagName="werewolf" Count="8" ExcerptPostId="3029" WikiPostId="3028" />
+  <row Id="50" TagName="components" Count="17" ExcerptPostId="3878" WikiPostId="3877" />
+  <row Id="51" TagName="poker" Count="27" ExcerptPostId="2886" WikiPostId="2885" />
+  <row Id="53" TagName="poker-texas-holdem" Count="25" ExcerptPostId="2938" WikiPostId="2937" />
+  <row Id="60" TagName="recommendations" Count="63" ExcerptPostId="2622" WikiPostId="2621" />
+  <row Id="62" TagName="battlestar-galactica" Count="43" ExcerptPostId="2479" WikiPostId="2478" />
+  <row Id="65" TagName="icehouse" Count="5" ExcerptPostId="8996" WikiPostId="8995" />
+  <row Id="69" TagName="risk" Count="17" ExcerptPostId="2936" WikiPostId="2935" />
+  <row Id="72" TagName="steam" Count="3" ExcerptPostId="8759" WikiPostId="8758" />
+  <row Id="73" TagName="railroad" Count="3" ExcerptPostId="8680" WikiPostId="8679" />
+  <row Id="74" TagName="tactics" Count="25" ExcerptPostId="2895" WikiPostId="2894" />
+  <row Id="76" TagName="game-development" Count="17" ExcerptPostId="3898" WikiPostId="3897" />
+  <row Id="77" TagName="professional" Count="5" ExcerptPostId="3908" WikiPostId="3907" />
+  <row Id="80" TagName="computers" Count="6" ExcerptPostId="8951" WikiPostId="8950" />
+  <row Id="84" TagName="warhammer-invasion" Count="3" />
+  <row Id="88" TagName="arkham-horror" Count="77" ExcerptPostId="2452" WikiPostId="2451" />
+  <row Id="89" TagName="storage" Count="17" ExcerptPostId="3926" WikiPostId="3925" />
+  <row Id="90" TagName="warhammer-40k" Count="59" ExcerptPostId="2684" WikiPostId="2683" />
+  <row Id="91" TagName="orks" Count="5" ExcerptPostId="8814" WikiPostId="8813" />
+  <row Id="92" TagName="space-orks" Count="3" />
+  <row Id="93" TagName="race-for-the-galaxy" Count="20" ExcerptPostId="2673" WikiPostId="2672" />
+  <row Id="94" TagName="euchre" Count="5" ExcerptPostId="4402" WikiPostId="4401" />
+  <row Id="96" TagName="mahjong" Count="24" ExcerptPostId="3872" WikiPostId="3871" />
+  <row Id="97" TagName="online" Count="39" ExcerptPostId="3931" WikiPostId="3930" />
+  <row Id="104" TagName="descent" Count="20" ExcerptPostId="3153" WikiPostId="3152" />
+  <row Id="106" TagName="rummy" Count="6" ExcerptPostId="3062" WikiPostId="3061" />
+  <row Id="107" TagName="etiquette" Count="19" ExcerptPostId="3950" WikiPostId="3949" />
+  <row Id="108" TagName="statistics" Count="26" ExcerptPostId="3955" WikiPostId="3954" />
+  <row Id="110" TagName="carcassonne-river" Count="5" ExcerptPostId="8654" WikiPostId="8653" />
+  <row Id="111" TagName="carcassonne-catapult" Count="2" ExcerptPostId="8652" WikiPostId="8651" />
+  <row Id="113" TagName="magic-the-gathering" Count="1154" ExcerptPostId="2884" WikiPostId="2883" />
+  <row Id="120" TagName="pegasus" Count="8" ExcerptPostId="4892" WikiPostId="4891" />
+  <row Id="121" TagName="age-of-steam" Count="7" ExcerptPostId="4418" WikiPostId="4417" />
+  <row Id="123" TagName="end-game" Count="9" ExcerptPostId="3896" WikiPostId="3895" />
+  <row Id="125" TagName="monopoly-deal" Count="6" ExcerptPostId="4896" WikiPostId="4895" />
+  <row Id="129" TagName="tournament" Count="20" ExcerptPostId="3481" WikiPostId="3480" />
+  <row Id="130" TagName="puerto-rico" Count="37" ExcerptPostId="2906" WikiPostId="2905" />
+  <row Id="133" TagName="domaine" Count="2" />
+  <row Id="135" TagName="variants" Count="30" ExcerptPostId="2229" WikiPostId="2228" />
+  <row Id="138" TagName="miniatures" Count="9" ExcerptPostId="8467" WikiPostId="8466" />
+  <row Id="141" TagName="family-games" Count="6" ExcerptPostId="3960" WikiPostId="3959" />
+  <row Id="144" TagName="cluedo" Count="8" ExcerptPostId="3044" WikiPostId="3043" />
+  <row Id="145" TagName="great-museum-caper" Count="2" ExcerptPostId="8705" WikiPostId="8704" />
+  <row Id="146" TagName="munchkin-quest" Count="10" ExcerptPostId="8669" WikiPostId="8668" />
+  <row Id="155" TagName="kids" Count="9" ExcerptPostId="8761" WikiPostId="8760" />
+  <row Id="167" TagName="turn-order" Count="6" ExcerptPostId="9257" WikiPostId="9256" />
+  <row Id="168" TagName="balance" Count="17" ExcerptPostId="3900" WikiPostId="3899" />
+  <row Id="174" TagName="crokinole" Count="2" ExcerptPostId="6962" WikiPostId="6961" />
+  <row Id="184" TagName="terminology" Count="16" ExcerptPostId="5762" WikiPostId="5761" />
+  <row Id="196" TagName="illuminati" Count="7" ExcerptPostId="8763" WikiPostId="8762" />
+  <row Id="198" TagName="twilight-imperium" Count="18" ExcerptPostId="9014" WikiPostId="9013" />
+  <row Id="201" TagName="game-accessories" Count="23" ExcerptPostId="8827" WikiPostId="8826" />
+  <row Id="202" TagName="18xx" Count="3" ExcerptPostId="8810" WikiPostId="8809" />
+  <row Id="204" TagName="identify-this-game" Count="79" ExcerptPostId="2715" WikiPostId="2714" />
+  <row Id="209" TagName="dominion-prosperity" Count="24" ExcerptPostId="3017" WikiPostId="3016" />
+  <row Id="211" TagName="bridge" Count="179" ExcerptPostId="3056" WikiPostId="3055" />
+  <row Id="213" TagName="deck-building" Count="60" ExcerptPostId="3479" WikiPostId="3478" />
+  <row Id="217" TagName="yu-gi-oh" Count="24" ExcerptPostId="3064" WikiPostId="3063" />
+  <row Id="218" TagName="custom-game-pieces" Count="18" ExcerptPostId="8808" WikiPostId="8807" />
+  <row Id="219" TagName="trading" Count="11" ExcerptPostId="3880" WikiPostId="3879" />
+  <row Id="225" TagName="party" Count="6" ExcerptPostId="3904" WikiPostId="3903" />
+  <row Id="239" TagName="catan-cities-and-knights" Count="16" ExcerptPostId="3058" WikiPostId="3057" />
+  <row Id="240" TagName="shadow-hunters" Count="6" />
+  <row Id="242" TagName="opening" Count="3" ExcerptPostId="3874" WikiPostId="3873" />
+  <row Id="243" TagName="cribbage" Count="24" ExcerptPostId="3929" WikiPostId="3928" />
+  <row Id="251" TagName="dominion-seaside" Count="16" ExcerptPostId="3023" WikiPostId="3022" />
+  <row Id="254" TagName="game-system" Count="3" ExcerptPostId="8861" WikiPostId="8860" />
+  <row Id="257" TagName="san-juan" Count="6" ExcerptPostId="3060" WikiPostId="3059" />
+  <row Id="279" TagName="game-design" Count="87" ExcerptPostId="3869" WikiPostId="3868" />
+  <row Id="280" TagName="brass" Count="4" ExcerptPostId="9165" WikiPostId="9164" />
+  <row Id="285" TagName="backgammon" Count="8" ExcerptPostId="3913" WikiPostId="3912" />
+  <row Id="286" TagName="probability" Count="16" ExcerptPostId="3790" WikiPostId="3789" />
+  <row Id="288" TagName="skill" Count="5" ExcerptPostId="3859" WikiPostId="3858" />
+  <row Id="290" TagName="riichi-mahjong" Count="11" ExcerptPostId="5766" WikiPostId="5765" />
+  <row Id="294" TagName="playing-cards" Count="48" ExcerptPostId="6083" WikiPostId="6082" />
+  <row Id="297" TagName="metagame" Count="4" ExcerptPostId="6620" WikiPostId="6619" />
+  <row Id="311" TagName="dominion-intrigue" Count="28" ExcerptPostId="2892" WikiPostId="2891" />
+  <row Id="312" TagName="ticket-to-ride" Count="42" ExcerptPostId="2679" WikiPostId="2678" />
+  <row Id="314" TagName="memoir-44" Count="4" ExcerptPostId="4406" WikiPostId="4405" />
+  <row Id="321" TagName="castle-ravenloft" Count="6" ExcerptPostId="3021" WikiPostId="3020" />
+  <row Id="323" TagName="warmachine" Count="11" ExcerptPostId="9205" WikiPostId="9204" />
+  <row Id="325" TagName="cuba" Count="2" ExcerptPostId="9163" WikiPostId="9162" />
+  <row Id="329" TagName="hordes" Count="5" ExcerptPostId="16636" WikiPostId="16635" />
+  <row Id="331" TagName="hearts" Count="6" ExcerptPostId="2637" WikiPostId="2636" />
+  <row Id="332" TagName="board-game-adaptations" Count="9" ExcerptPostId="7533" WikiPostId="7532" />
+  <row Id="334" TagName="catan-traders-barbarians" Count="6" ExcerptPostId="8667" WikiPostId="8666" />
+  <row Id="336" TagName="forbidden-island" Count="13" ExcerptPostId="3070" WikiPostId="3069" />
+  <row Id="345" TagName="bohnanza" Count="15" ExcerptPostId="2908" WikiPostId="2907" />
+  <row Id="346" TagName="catan-card-game" Count="4" ExcerptPostId="8841" WikiPostId="8840" />
+  <row Id="354" TagName="khet" Count="3" ExcerptPostId="8896" WikiPostId="8895" />
+  <row Id="363" TagName="trick-taking-games" Count="11" ExcerptPostId="8691" WikiPostId="8690" />
+  <row Id="369" TagName="fluxx" Count="25" ExcerptPostId="3031" WikiPostId="3030" />
+  <row Id="376" TagName="solitaire" Count="12" ExcerptPostId="3083" WikiPostId="3082" />
+  <row Id="377" TagName="power-grid" Count="24" ExcerptPostId="2456" WikiPostId="2455" />
+  <row Id="380" TagName="checkers" Count="13" ExcerptPostId="3911" WikiPostId="3910" />
+  <row Id="390" TagName="exodus" Count="4" ExcerptPostId="4890" WikiPostId="4889" />
+  <row Id="393" TagName="shadows-over-camelot" Count="11" ExcerptPostId="3155" WikiPostId="3154" />
+  <row Id="397" TagName="rivals-for-catan" Count="7" ExcerptPostId="8856" WikiPostId="8855" />
+  <row Id="398" TagName="dungeon-lords" Count="4" ExcerptPostId="3053" WikiPostId="3052" />
+  <row Id="399" TagName="puzzles" Count="11" ExcerptPostId="6633" WikiPostId="6632" />
+  <row Id="401" TagName="zombies" Count="3" />
+  <row Id="406" TagName="expansions" Count="29" ExcerptPostId="8459" WikiPostId="8458" />
+  <row Id="410" TagName="zooloretto" Count="2" />
+  <row Id="415" TagName="elfenland" Count="2" ExcerptPostId="8804" WikiPostId="8803" />
+  <row Id="419" TagName="pirates-cove" Count="3" />
+  <row Id="422" TagName="psychology" Count="8" ExcerptPostId="3857" WikiPostId="3856" />
+  <row Id="423" TagName="do-it-yourself" Count="2" ExcerptPostId="2639" WikiPostId="2638" />
+  <row Id="425" TagName="agricola-fotm" Count="4" ExcerptPostId="3620" WikiPostId="3619" />
+  <row Id="427" TagName="wow-tcg" Count="4" />
+  <row Id="430" TagName="mansions-of-madness" Count="43" ExcerptPostId="3040" WikiPostId="3039" />
+  <row Id="440" TagName="notation" Count="4" ExcerptPostId="3867" WikiPostId="3866" />
+  <row Id="443" TagName="munchkin" Count="38" ExcerptPostId="3046" WikiPostId="3045" />
+  <row Id="448" TagName="1000-blank-white-cards" Count="2" ExcerptPostId="8743" WikiPostId="8742" />
+  <row Id="451" TagName="liars-dice" Count="2" ExcerptPostId="8719" WikiPostId="8718" />
+  <row Id="455" TagName="a-touch-of-evil" Count="5" ExcerptPostId="9023" WikiPostId="9022" />
+  <row Id="456" TagName="play-time" Count="14" ExcerptPostId="3906" WikiPostId="3905" />
+  <row Id="459" TagName="empires-in-arms" Count="3" ExcerptPostId="8656" WikiPostId="8655" />
+  <row Id="463" TagName="through-the-ages" Count="3" ExcerptPostId="13616" WikiPostId="13615" />
+  <row Id="468" TagName="openings" Count="41" ExcerptPostId="3855" WikiPostId="3854" />
+  <row Id="479" TagName="hand-and-foot" Count="3" ExcerptPostId="9197" WikiPostId="9196" />
+  <row Id="481" TagName="pokemon" Count="12" ExcerptPostId="8902" WikiPostId="8901" />
+  <row Id="485" TagName="puerto-rico-expansion-2" Count="4" />
+  <row Id="489" TagName="bidding" Count="69" ExcerptPostId="3863" WikiPostId="3862" />
+  <row Id="494" TagName="game-of-thrones" Count="25" ExcerptPostId="8518" WikiPostId="8517" />
+  <row Id="505" TagName="broadside" Count="2" ExcerptPostId="3915" WikiPostId="3914" />
+  <row Id="516" TagName="death-angel" Count="4" ExcerptPostId="8898" WikiPostId="8897" />
+  <row Id="522" TagName="ascension" Count="9" ExcerptPostId="9189" WikiPostId="9188" />
+  <row Id="529" TagName="mancala" Count="5" ExcerptPostId="8816" WikiPostId="8815" />
+  <row Id="530" TagName="pandemic-on-the-brink" Count="12" ExcerptPostId="4072" WikiPostId="4071" />
+  <row Id="531" TagName="7-wonders" Count="44" ExcerptPostId="4884" WikiPostId="4883" />
+  <row Id="537" TagName="agricola-goodies" Count="5" ExcerptPostId="8874" WikiPostId="8873" />
+  <row Id="538" TagName="untagged" Count="100" ExcerptPostId="4184" WikiPostId="4183" />
+  <row Id="543" TagName="legal" Count="3" ExcerptPostId="8812" WikiPostId="8811" />
+  <row Id="544" TagName="teaching" Count="30" ExcerptPostId="8904" WikiPostId="8903" />
+  <row Id="545" TagName="sorry" Count="5" ExcerptPostId="18419" WikiPostId="18418" />
+  <row Id="550" TagName="jenga" Count="6" ExcerptPostId="8697" WikiPostId="8696" />
+  <row Id="551" TagName="dnd-adventure-system" Count="10" ExcerptPostId="8672" WikiPostId="8671" />
+  <row Id="559" TagName="mtg-commander" Count="30" ExcerptPostId="5029" WikiPostId="5028" />
+  <row Id="560" TagName="robo-rally" Count="4" ExcerptPostId="4414" WikiPostId="4413" />
+  <row Id="562" TagName="thematic-content" Count="2" />
+  <row Id="566" TagName="saboteur-2" Count="11" ExcerptPostId="9203" WikiPostId="9202" />
+  <row Id="569" TagName="candy-land" Count="2" ExcerptPostId="8782" WikiPostId="8781" />
+  <row Id="570" TagName="mulligans" Count="2" ExcerptPostId="6726" WikiPostId="6725" />
+  <row Id="574" TagName="elder-sign" Count="19" ExcerptPostId="8465" WikiPostId="8464" />
+  <row Id="577" TagName="claustrophobia" Count="4" ExcerptPostId="9191" WikiPostId="9190" />
+  <row Id="578" TagName="prototyping" Count="8" ExcerptPostId="8693" WikiPostId="8692" />
+  <row Id="580" TagName="the-resistance" Count="14" ExcerptPostId="4894" WikiPostId="4893" />
+  <row Id="587" TagName="innistrad" Count="3" />
+  <row Id="592" TagName="thunderstone-dragonspire" Count="2" />
+  <row Id="598" TagName="dixit" Count="4" ExcerptPostId="5229" WikiPostId="5228" />
+  <row Id="602" TagName="killer-bunnies" Count="3" ExcerptPostId="14924" WikiPostId="14923" />
+  <row Id="604" TagName="sealed-deck" Count="5" ExcerptPostId="8818" WikiPostId="8817" />
+  <row Id="605" TagName="mtg-drafting" Count="29" ExcerptPostId="5237" WikiPostId="5236" />
+  <row Id="608" TagName="alhambra" Count="3" ExcerptPostId="8749" WikiPostId="8748" />
+  <row Id="613" TagName="resident-evil-dbg" Count="3" />
+  <row Id="617" TagName="dominion-hinterlands" Count="3" ExcerptPostId="8658" WikiPostId="8657" />
+  <row Id="619" TagName="tsumego" Count="5" ExcerptPostId="5489" WikiPostId="5488" />
+  <row Id="620" TagName="joseki" Count="8" ExcerptPostId="5496" WikiPostId="5495" />
+  <row Id="622" TagName="goban" Count="2" ExcerptPostId="5508" WikiPostId="5507" />
+  <row Id="626" TagName="version" Count="5" ExcerptPostId="8900" WikiPostId="8899" />
+  <row Id="631" TagName="invasion" Count="2" ExcerptPostId="8729" WikiPostId="8728" />
+  <row Id="634" TagName="thickness" Count="3" ExcerptPostId="5537" WikiPostId="5536" />
+  <row Id="635" TagName="influence" Count="2" ExcerptPostId="5539" WikiPostId="5538" />
+  <row Id="636" TagName="counting" Count="5" ExcerptPostId="5553" WikiPostId="5552" />
+  <row Id="639" TagName="handicap" Count="11" ExcerptPostId="5570" WikiPostId="5569" />
+  <row Id="640" TagName="rank" Count="2" ExcerptPostId="5578" WikiPostId="5577" />
+  <row Id="646" TagName="study" Count="4" ExcerptPostId="6135" WikiPostId="6134" />
+  <row Id="650" TagName="game-theory" Count="6" ExcerptPostId="9175" WikiPostId="9174" />
+  <row Id="651" TagName="kifu" Count="2" ExcerptPostId="5660" WikiPostId="5659" />
+  <row Id="652" TagName="positional-judgement" Count="2" ExcerptPostId="8731" WikiPostId="8730" />
+  <row Id="655" TagName="guillotine" Count="7" ExcerptPostId="8695" WikiPostId="8694" />
+  <row Id="662" TagName="shuffling" Count="10" ExcerptPostId="8688" WikiPostId="8687" />
+  <row Id="668" TagName="random" Count="3" ExcerptPostId="8757" WikiPostId="8756" />
+  <row Id="671" TagName="risk-legacy" Count="5" ExcerptPostId="6589" WikiPostId="6588" />
+  <row Id="672" TagName="warhammer-fantasy" Count="11" ExcerptPostId="8880" WikiPostId="8879" />
+  <row Id="680" TagName="le-havre" Count="3" ExcerptPostId="8755" WikiPostId="8754" />
+  <row Id="682" TagName="complexity" Count="2" />
+  <row Id="683" TagName="joseki-deviation" Count="4" ExcerptPostId="7378" WikiPostId="7377" />
+  <row Id="684" TagName="small-world-underground" Count="10" ExcerptPostId="8646" WikiPostId="8645" />
+  <row Id="688" TagName="dungeon-run" Count="2" ExcerptPostId="8890" WikiPostId="8889" />
+  <row Id="693" TagName="copyright" Count="3" ExcerptPostId="8701" WikiPostId="8700" />
+  <row Id="700" TagName="eclipse" Count="20" ExcerptPostId="8876" WikiPostId="8875" />
+  <row Id="701" TagName="last-night-on-earth" Count="14" ExcerptPostId="9016" WikiPostId="9015" />
+  <row Id="702" TagName="stratego" Count="3" ExcerptPostId="6262" WikiPostId="6261" />
+  <row Id="704" TagName="cosmic-encounter" Count="15" ExcerptPostId="6232" WikiPostId="6231" />
+  <row Id="706" TagName="mtg-history" Count="4" />
+  <row Id="708" TagName="saboteur" Count="8" ExcerptPostId="9034" WikiPostId="9033" />
+  <row Id="711" TagName="mtg-modern" Count="3" ExcerptPostId="7245" WikiPostId="7244" />
+  <row Id="712" TagName="mtg-manabase" Count="13" />
+  <row Id="716" TagName="hnefatafl" Count="4" ExcerptPostId="6251" WikiPostId="6250" />
+  <row Id="728" TagName="print-and-play" Count="5" ExcerptPostId="6366" WikiPostId="6365" />
+  <row Id="730" TagName="button-men" Count="4" ExcerptPostId="6630" WikiPostId="6629" />
+  <row Id="732" TagName="extension" Count="2" ExcerptPostId="8831" WikiPostId="8830" />
+  <row Id="734" TagName="shape" Count="2" ExcerptPostId="6758" WikiPostId="6757" />
+  <row Id="735" TagName="ah-innsmouth-horror" Count="2" ExcerptPostId="8642" WikiPostId="8641" />
+  <row Id="737" TagName="barbarian-prince" Count="3" ExcerptPostId="8884" WikiPostId="8883" />
+  <row Id="738" TagName="stone-age" Count="4" ExcerptPostId="8723" WikiPostId="8722" />
+  <row Id="739" TagName="designer-board-games" Count="8" />
+  <row Id="741" TagName="saint-petersburg" Count="2" ExcerptPostId="9177" WikiPostId="9176" />
+  <row Id="743" TagName="yaku" Count="2" />
+  <row Id="749" TagName="defenders-of-the-realm" Count="2" ExcerptPostId="8955" WikiPostId="8954" />
+  <row Id="751" TagName="starcraft" Count="5" ExcerptPostId="6672" WikiPostId="6671" />
+  <row Id="752" TagName="roll-through-the-ages" Count="3" ExcerptPostId="8953" WikiPostId="8952" />
+  <row Id="753" TagName="3d-chess" Count="2" />
+  <row Id="760" TagName="two-headed-giant" Count="8" ExcerptPostId="8727" WikiPostId="8726" />
+  <row Id="761" TagName="stack" Count="11" ExcerptPostId="6846" WikiPostId="6845" />
+  <row Id="762" TagName="rat-a-tat-cat" Count="2" ExcerptPostId="9199" WikiPostId="9198" />
+  <row Id="764" TagName="chaos-in-the-old-world" Count="4" ExcerptPostId="8878" WikiPostId="8877" />
+  <row Id="777" TagName="mage-knight-bg" Count="3" ExcerptPostId="9301" WikiPostId="9300" />
+  <row Id="778" TagName="flames-of-war" Count="4" ExcerptPostId="7233" WikiPostId="7232" />
+  <row Id="779" TagName="rummikub" Count="4" ExcerptPostId="9021" WikiPostId="9020" />
+  <row Id="780" TagName="cheating" Count="4" ExcerptPostId="8833" WikiPostId="8832" />
+  <row Id="782" TagName="ticket-to-ride-europe" Count="9" ExcerptPostId="8725" WikiPostId="8724" />
+  <row Id="784" TagName="mtg-cube" Count="7" ExcerptPostId="8906" WikiPostId="8905" />
+  <row Id="788" TagName="penny-arcade-gamersvsevil" Count="3" ExcerptPostId="9195" WikiPostId="9194" />
+  <row Id="793" TagName="vinci" Count="3" ExcerptPostId="8940" WikiPostId="8939" />
+  <row Id="795" TagName="star-trek-dbg" Count="2" />
+  <row Id="796" TagName="glory-to-rome" Count="6" ExcerptPostId="8753" WikiPostId="8752" />
+  <row Id="801" TagName="civilization-board-game" Count="8" ExcerptPostId="8957" WikiPostId="8956" />
+  <row Id="805" TagName="eminent-domain" Count="2" ExcerptPostId="7573" WikiPostId="7572" />
+  <row Id="813" TagName="cards-against-humanity" Count="4" ExcerptPostId="7731" WikiPostId="7730" />
+  <row Id="814" TagName="dungeonquest" Count="2" ExcerptPostId="8802" WikiPostId="8801" />
+  <row Id="816" TagName="galaxy-trucker" Count="3" ExcerptPostId="8894" WikiPostId="8893" />
+  <row Id="820" TagName="kingdom-builder" Count="5" ExcerptPostId="7810" WikiPostId="7809" />
+  <row Id="831" TagName="quarriors" Count="3" ExcerptPostId="8882" WikiPostId="8881" />
+  <row Id="832" TagName="in-the-year-of-the-dragon" Count="2" ExcerptPostId="8014" WikiPostId="8013" />
+  <row Id="837" TagName="careers" Count="2" />
+  <row Id="839" TagName="call-of-cthulhu-lcg" Count="6" />
+  <row Id="842" TagName="caylus" Count="2" ExcerptPostId="8751" WikiPostId="8750" />
+  <row Id="843" TagName="talisman" Count="5" ExcerptPostId="8942" WikiPostId="8941" />
+  <row Id="844" TagName="chaos-marauders" Count="2" />
+  <row Id="850" TagName="star-wars-lcg" Count="4" ExcerptPostId="8476" WikiPostId="8475" />
+  <row Id="851" TagName="midway" Count="2" ExcerptPostId="9179" WikiPostId="9178" />
+  <row Id="853" TagName="principato" Count="2" ExcerptPostId="9173" WikiPostId="9172" />
+  <row Id="860" TagName="dominion-dark-ages" Count="11" ExcerptPostId="8707" WikiPostId="8706" />
+  <row Id="861" TagName="tau" Count="4" ExcerptPostId="8886" WikiPostId="8885" />
+  <row Id="862" TagName="necron" Count="2" ExcerptPostId="9171" WikiPostId="9170" />
+  <row Id="865" TagName="betrayal-at-house-on-hill" Count="27" ExcerptPostId="8717" WikiPostId="8716" />
+  <row Id="866" TagName="blackjack" Count="14" ExcerptPostId="8835" WikiPostId="8834" />
+  <row Id="868" TagName="zombicide" Count="5" ExcerptPostId="9091" WikiPostId="9090" />
+  <row Id="870" TagName="vassal" Count="3" ExcerptPostId="14263" WikiPostId="14262" />
+  <row Id="873" TagName="alien-frontiers" Count="5" ExcerptPostId="8745" WikiPostId="8744" />
+  <row Id="874" TagName="phase-10" Count="5" />
+  <row Id="876" TagName="uno" Count="9" ExcerptPostId="8703" WikiPostId="8702" />
+  <row Id="879" TagName="wargaming" Count="3" />
+  <row Id="881" TagName="modelling" Count="4" ExcerptPostId="9255" WikiPostId="9254" />
+  <row Id="895" TagName="ah-miskatonic-horror" Count="2" ExcerptPostId="8644" WikiPostId="8643" />
+  <row Id="896" TagName="flash-duel" Count="3" ExcerptPostId="9201" WikiPostId="9200" />
+  <row Id="898" TagName="dominion-promotional" Count="3" ExcerptPostId="8660" WikiPostId="8659" />
+  <row Id="900" TagName="american-megafauna" Count="2" ExcerptPostId="8737" WikiPostId="8736" />
+  <row Id="901" TagName="bios-megafauna" Count="2" ExcerptPostId="8806" WikiPostId="8805" />
+  <row Id="904" TagName="advanced-civilization" Count="2" ExcerptPostId="8936" WikiPostId="8935" />
+  <row Id="905" TagName="blokus" Count="5" ExcerptPostId="8780" WikiPostId="8779" />
+  <row Id="911" TagName="reference" Count="3" />
+  <row Id="915" TagName="dominion-cornucopia" Count="4" ExcerptPostId="8908" WikiPostId="8907" />
+  <row Id="919" TagName="duplicate-bridge" Count="9" ExcerptPostId="8910" WikiPostId="8909" />
+  <row Id="920" TagName="quarto" Count="2" ExcerptPostId="9050" WikiPostId="9049" />
+  <row Id="924" TagName="basing" Count="3" />
+  <row Id="928" TagName="computer-ai" Count="8" ExcerptPostId="8960" WikiPostId="8959" />
+  <row Id="929" TagName="board-size" Count="6" ExcerptPostId="8962" WikiPostId="8961" />
+  <row Id="932" TagName="13x13" Count="2" ExcerptPostId="8978" WikiPostId="8977" />
+  <row Id="933" TagName="crayon-rail-games" Count="5" ExcerptPostId="8980" WikiPostId="8979" />
+  <row Id="934" TagName="hive" Count="4" ExcerptPostId="9005" WikiPostId="9004" />
+  <row Id="938" TagName="haggis" Count="2" ExcerptPostId="9039" WikiPostId="9038" />
+  <row Id="939" TagName="betting" Count="3" ExcerptPostId="18911" WikiPostId="18910" />
+  <row Id="946" TagName="flash-point" Count="8" ExcerptPostId="9185" WikiPostId="9184" />
+  <row Id="948" TagName="twilight-struggle" Count="3" ExcerptPostId="9239" WikiPostId="9238" />
+  <row Id="958" TagName="mtg-multiplayer" Count="9" ExcerptPostId="9551" WikiPostId="9550" />
+  <row Id="959" TagName="little-wars" Count="2" />
+  <row Id="965" TagName="diskwars" Count="1" ExcerptPostId="9390" WikiPostId="9389" />
+  <row Id="970" TagName="othello" Count="5" />
+  <row Id="975" TagName="ninja-burger" Count="5" />
+  <row Id="979" TagName="trashing" Count="3" ExcerptPostId="10928" WikiPostId="10927" />
+  <row Id="983" TagName="android-netrunner" Count="62" ExcerptPostId="9607" WikiPostId="9606" />
+  <row Id="984" TagName="doom" Count="3" />
+  <row Id="986" TagName="mage-knight" Count="2" />
+  <row Id="988" TagName="netrunner-ccg" Count="5" ExcerptPostId="9640" WikiPostId="9639" />
+  <row Id="989" TagName="core-worlds" Count="1" ExcerptPostId="9700" WikiPostId="9699" />
+  <row Id="991" TagName="nuns-on-the-run" Count="1" ExcerptPostId="9726" WikiPostId="9725" />
+  <row Id="993" TagName="cargo-noir" Count="2" ExcerptPostId="9728" WikiPostId="9727" />
+  <row Id="995" TagName="gloom" Count="1" ExcerptPostId="12411" WikiPostId="12410" />
+  <row Id="997" TagName="shogi" Count="2" />
+  <row Id="1001" TagName="axis-and-allies-mini" Count="1" ExcerptPostId="10993" WikiPostId="10992" />
+  <row Id="1004" TagName="card-sleeves" Count="4" ExcerptPostId="18421" WikiPostId="18420" />
+  <row Id="1009" TagName="at-the-gates-of-loyang" Count="2" />
+  <row Id="1011" TagName="dice" Count="12" ExcerptPostId="14233" WikiPostId="14232" />
+  <row Id="1014" TagName="lords-of-waterdeep" Count="7" />
+  <row Id="1016" TagName="game-of-thrones-card-game" Count="4" ExcerptPostId="18874" WikiPostId="18873" />
+  <row Id="1017" TagName="mad-zeppelin" Count="2" />
+  <row Id="1018" TagName="castle-panic" Count="2" />
+  <row Id="1020" TagName="canasta" Count="2" />
+  <row Id="1021" TagName="ghost-catch" Count="1" ExcerptPostId="11576" WikiPostId="11575" />
+  <row Id="1030" TagName="avalonhill" Count="3" />
+  <row Id="1033" TagName="star-trek-ccg" Count="3" ExcerptPostId="11835" WikiPostId="11834" />
+  <row Id="1035" TagName="gin" Count="2" />
+  <row Id="1036" TagName="ora-et-labora" Count="1" ExcerptPostId="13122" WikiPostId="13121" />
+  <row Id="1040" TagName="king-of-tokyo" Count="18" ExcerptPostId="12075" WikiPostId="12074" />
+  <row Id="1052" TagName="belote" Count="1" ExcerptPostId="12375" WikiPostId="12374" />
+  <row Id="1053" TagName="discworld-ankh-morpork" Count="1" ExcerptPostId="12394" WikiPostId="12393" />
+  <row Id="1054" TagName="somnium" Count="1" ExcerptPostId="12398" WikiPostId="12397" />
+  <row Id="1055" TagName="kids-of-catan" Count="1" ExcerptPostId="12405" WikiPostId="12404" />
+  <row Id="1056" TagName="carrom" Count="3" ExcerptPostId="12407" WikiPostId="12406" />
+  <row Id="1057" TagName="lost-cities" Count="2" ExcerptPostId="12409" WikiPostId="12408" />
+  <row Id="1058" TagName="titan" Count="2" ExcerptPostId="12413" WikiPostId="12412" />
+  <row Id="1059" TagName="hansa-teutonica" Count="2" />
+  <row Id="1060" TagName="tic-tac-toe" Count="4" />
+  <row Id="1062" TagName="smash-up" Count="18" />
+  <row Id="1064" TagName="mice-and-mystics" Count="6" ExcerptPostId="12908" WikiPostId="12907" />
+  <row Id="1065" TagName="pinochle" Count="4" />
+  <row Id="1068" TagName="swish" Count="1" ExcerptPostId="12677" WikiPostId="12676" />
+  <row Id="1072" TagName="conquest-of-planet-earth" Count="3" />
+  <row Id="1073" TagName="sentinels-multiverse" Count="3" ExcerptPostId="12955" WikiPostId="12954" />
+  <row Id="1075" TagName="redemption-tcg" Count="2" />
+  <row Id="1077" TagName="pathfinder-adventure" Count="9" />
+  <row Id="1080" TagName="legends-of-andor" Count="2" />
+  <row Id="1083" TagName="libertalia" Count="2" />
+  <row Id="1088" TagName="roma" Count="1" ExcerptPostId="13285" WikiPostId="13284" />
+  <row Id="1090" TagName="arcana" Count="2" ExcerptPostId="13351" WikiPostId="13350" />
+  <row Id="1092" TagName="king-of-tokyo-power-up" Count="2" />
+  <row Id="1093" TagName="dc-comics-deck-building" Count="1" ExcerptPostId="13464" WikiPostId="13463" />
+  <row Id="1104" TagName="terra-mystica" Count="6" ExcerptPostId="13731" WikiPostId="13730" />
+  <row Id="1105" TagName="chez-geek" Count="1" ExcerptPostId="13629" WikiPostId="13628" />
+  <row Id="1106" TagName="dungeon" Count="6" ExcerptPostId="13646" WikiPostId="13645" />
+  <row Id="1107" TagName="combat" Count="2" />
+  <row Id="1110" TagName="eldritch-horror" Count="8" ExcerptPostId="13693" WikiPostId="13692" />
+  <row Id="1112" TagName="evolution" Count="3" />
+  <row Id="1118" TagName="the-agents" Count="3" />
+  <row Id="1120" TagName="ghost-stories" Count="3" ExcerptPostId="13764" WikiPostId="13763" />
+  <row Id="1121" TagName="dominoes" Count="2" />
+  <row Id="1123" TagName="setup" Count="1" ExcerptPostId="14228" WikiPostId="14227" />
+  <row Id="1124" TagName="boggle" Count="1" ExcerptPostId="14505" WikiPostId="14504" />
+  <row Id="1125" TagName="firefly" Count="9" ExcerptPostId="15421" WikiPostId="15420" />
+  <row Id="1126" TagName="third-reich" Count="1" ExcerptPostId="13926" WikiPostId="13925" />
+  <row Id="1127" TagName="black-friday" Count="2" />
+  <row Id="1130" TagName="archipelago" Count="5" ExcerptPostId="14154" WikiPostId="14153" />
+  <row Id="1131" TagName="archipelago-solo-exp" Count="4" ExcerptPostId="14167" WikiPostId="14166" />
+  <row Id="1133" TagName="castaways" Count="3" ExcerptPostId="14250" WikiPostId="14249" />
+  <row Id="1134" TagName="casino-games" Count="2" />
+  <row Id="1135" TagName="accessibility" Count="2" ExcerptPostId="18905" WikiPostId="18904" />
+  <row Id="1138" TagName="my-little-pony-ccg" Count="4" />
+  <row Id="1140" TagName="puzzle-strike" Count="2" />
+  <row Id="1142" TagName="relic" Count="2" ExcerptPostId="18842" WikiPostId="18841" />
+  <row Id="1145" TagName="pegs-and-jokers" Count="2" />
+  <row Id="1146" TagName="two-player" Count="2" />
+  <row Id="1152" TagName="discworld-the-witches" Count="2" ExcerptPostId="14774" WikiPostId="14773" />
+  <row Id="1160" TagName="forbidden-desert" Count="2" />
+  <row Id="1162" TagName="neuroshima-hex" Count="2" />
+  <row Id="1163" TagName="love-letter" Count="2" ExcerptPostId="18015" WikiPostId="18014" />
+  <row Id="1164" TagName="the-game-of-life" Count="1" />
+  <row Id="1165" TagName="ratuki" Count="1" />
+  <row Id="1166" TagName="connect-four" Count="1" />
+  <row Id="1167" TagName="condottiere" Count="1" />
+  <row Id="1168" TagName="senet" Count="1" />
+  <row Id="1169" TagName="dont-break-the-ice" Count="1" />
+  <row Id="1170" TagName="set" Count="1" />
+  <row Id="1171" TagName="el-grande" Count="1" />
+  <row Id="1172" TagName="call-of-cthulhu" Count="1" />
+  <row Id="1173" TagName="cranium" Count="1" />
+  <row Id="1175" TagName="summoner-wars" Count="1" ExcerptPostId="15114" WikiPostId="15113" />
+  <row Id="1176" TagName="ios" Count="2" />
+  <row Id="1177" TagName="decktet" Count="1" ExcerptPostId="14996" WikiPostId="14995" />
+  <row Id="1182" TagName="robot-turtles" Count="1" />
+  <row Id="1183" TagName="dunwich-horror" Count="1" ExcerptPostId="15025" WikiPostId="15024" />
+  <row Id="1184" TagName="nine-mens-morris" Count="2" />
+  <row Id="1185" TagName="nanuk" Count="1" />
+  <row Id="1186" TagName="yomi" Count="3" />
+  <row Id="1187" TagName="the-resistance-avalon" Count="3" />
+  <row Id="1188" TagName="dominion-guilds" Count="1" />
+  <row Id="1189" TagName="kamisado" Count="1" />
+  <row Id="1190" TagName="rook" Count="1" />
+  <row Id="1191" TagName="robinson-crusoe" Count="4" />
+  <row Id="1193" TagName="rota" Count="1" ExcerptPostId="15281" WikiPostId="15280" />
+  <row Id="1194" TagName="heroes-of-normandie" Count="1" />
+  <row Id="1195" TagName="farmageddon" Count="1" ExcerptPostId="15387" WikiPostId="15386" />
+  <row Id="1196" TagName="tally-ho" Count="1" />
+  <row Id="1197" TagName="video" Count="1" />
+  <row Id="1198" TagName="schnapsen" Count="1" ExcerptPostId="15408" WikiPostId="15407" />
+  <row Id="1199" TagName="sixty-six" Count="1" />
+  <row Id="1200" TagName="canfield" Count="1" />
+  <row Id="1202" TagName="crack-the-case" Count="1" />
+  <row Id="1203" TagName="mobile-frame-zero" Count="1" />
+  <row Id="1204" TagName="simcity" Count="1" />
+  <row Id="1205" TagName="space-alert" Count="1" />
+  <row Id="1206" TagName="undying" Count="1" />
+  <row Id="1208" TagName="mascarade" Count="1" ExcerptPostId="15532" WikiPostId="15531" />
+  <row Id="1209" TagName="tobago" Count="1" />
+  <row Id="1210" TagName="castles-of-burgundy" Count="1" />
+  <row Id="1211" TagName="pantheon" Count="1" />
+  <row Id="1212" TagName="thebes" Count="1" />
+  <row Id="1214" TagName="escape-from-atlantis" Count="3" />
+  <row Id="1215" TagName="preferans" Count="1" />
+  <row Id="1216" TagName="spades" Count="3" />
+  <row Id="1217" TagName="game-pace" Count="1" />
+  <row Id="1218" TagName="lord-of-the-rings-lcg" Count="2" />
+  <row Id="1219" TagName="pandante" Count="1" ExcerptPostId="16854" WikiPostId="16853" />
+  <row Id="2219" TagName="coup-the-resistance" Count="2" />
+  <row Id="2220" TagName="monopoly-city" Count="1" />
+  <row Id="2221" TagName="thunderstone" Count="1" />
+  <row Id="2222" TagName="heroclix" Count="1" />
+  <row Id="2223" TagName="substitutes" Count="1" ExcerptPostId="17939" WikiPostId="17938" />
+  <row Id="2225" TagName="revolver" Count="1" ExcerptPostId="18013" WikiPostId="18012" />
+  <row Id="2227" TagName="circus-maximus" Count="1" />
+  <row Id="2228" TagName="priority" Count="1" />
+  <row Id="2229" TagName="chupacabra" Count="1" />
+  <row Id="2230" TagName="two-rooms-and-a-boom" Count="1" />
+  <row Id="2231" TagName="caverna" Count="2" ExcerptPostId="18358" WikiPostId="18357" />
+  <row Id="2232" TagName="gosu" Count="1" ExcerptPostId="18156" WikiPostId="18155" />
+  <row Id="2233" TagName="takenoko" Count="2" ExcerptPostId="18184" WikiPostId="18183" />
+  <row Id="2234" TagName="carcassonne-new-world" Count="2" />
+  <row Id="2235" TagName="mordheim" Count="1" ExcerptPostId="18346" WikiPostId="18345" />
+  <row Id="2236" TagName="few-acres-of-snow" Count="1" ExcerptPostId="18435" WikiPostId="18434" />
+  <row Id="2237" TagName="arctic-scavengers" Count="2" ExcerptPostId="18765" WikiPostId="18764" />
+  <row Id="2238" TagName="mundus-novus" Count="3" ExcerptPostId="18633" WikiPostId="18632" />
+  <row Id="2239" TagName="priests-of-ra" Count="1" />
+  <row Id="2240" TagName="sentinel-tactics" Count="1" />
+  <row Id="2241" TagName="lord-of-the-rings" Count="1" />
+  <row Id="2242" TagName="belfort" Count="1" />
+  <row Id="2243" TagName="home-builders" Count="1" />
+  <row Id="2244" TagName="troyes" Count="1" />
+  <row Id="2245" TagName="boss-monster" Count="2" ExcerptPostId="18848" WikiPostId="18847" />
+  <row Id="2246" TagName="legend-of-the-five-rings" Count="1" />
+  <row Id="2247" TagName="7-wonders-cities" Count="3" />
+  <row Id="2248" TagName="7-wonders-leaders" Count="1" />
+  <row Id="2249" TagName="star-wars-x-wing" Count="1" ExcerptPostId="18839" WikiPostId="18838" />
+  <row Id="2250" TagName="friday" Count="1" />
+  <row Id="2251" TagName="blood-bowl" Count="1" />
+</tags>
