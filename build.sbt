@@ -8,6 +8,8 @@ scalaVersion := "2.11.4"
 
 resolvers += "Linter Repository" at "https://hairyfotr.github.io/linteRepo/releases"
 
+libraryDependencies += "com.github.scopt" %% "scopt" % "3.3.0"
+
 // Change this to another test framework if you prefer
 libraryDependencies += "org.scalatest" %% "scalatest" % "2.1.6" % "test"
 
@@ -15,7 +17,7 @@ scalacOptions ++= Seq("-feature", "-deprecation", "-Xlint", "-Xfatal-warnings")
 
 addCompilerPlugin("com.foursquare.lint" %% "linter" % "0.1-SNAPSHOT")
 
-wartremoverErrors ++= Warts.allBut(Wart.NoNeedForMonad)
+wartremoverErrors ++= Warts.allBut(Wart.NoNeedForMonad, Wart.NonUnitStatements, Wart.DefaultArguments)
 
 defaultScalariformSettings
 
